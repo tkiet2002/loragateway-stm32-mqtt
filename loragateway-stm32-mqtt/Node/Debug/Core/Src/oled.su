@@ -1,0 +1,8 @@
+../Core/Src/oled.c:401:6:oled_send_command	24	static
+../Core/Src/oled.c:407:6:oled_send_data	24	static
+../Core/Src/oled.c:413:6:oled_init	8	static
+../Core/Src/oled.c:439:6:oled_display_pattern	16	static
+../Core/Src/oled.c:451:6:oled_display_char	24	static
+../Core/Src/oled.c:466:6:oled_set_cursor	16	static
+../Core/Src/oled.c:474:6:ssd1306_char_f8x16	24	static
+../Core/Src/oled.c:498:6:oled_display_string	16	static

@@ -1,0 +1,8 @@
+../Core/Src/sx1278.c:13:9:readRegister	1
+../Core/Src/sx1278.c:22:6:writeRegister	1
+../Core/Src/sx1278.c:31:6:standby_mode	1
+../Core/Src/sx1278.c:35:6:sleep_mode	1
+../Core/Src/sx1278.c:39:6:tx_mode	1
+../Core/Src/sx1278.c:43:6:rx_mode	1
+../Core/Src/sx1278.c:47:6:setFrequency	1
+../Core/Src/sx1278.c:53:6:sx1278_init	1
