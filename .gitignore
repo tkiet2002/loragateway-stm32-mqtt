@@ -1,0 +1,19 @@
+# Ignore system files and folders
+.DS_Store
+*.log
+*.tmp
+*.bak
+NTUSER.DAT*
+*.ini
+
+# Ignore Windows directories
+Application Data/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
